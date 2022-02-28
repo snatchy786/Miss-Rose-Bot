@@ -4,7 +4,7 @@ import sys
 
 import telegram.ext as tg
 
-# enable logging
+# enable logging 
 logging.basicConfig(
     format="%(asctime)s - %(name)s - %(levelname)s - %(message)s",
     level=logging.INFO)
